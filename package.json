@@ -1,0 +1,14 @@
+{
+  "name": "zaid-digital-services",
+  "version": "1.0.0",
+  "description": "Modern website for Zaid Digital Services",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
